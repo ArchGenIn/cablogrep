@@ -1,6 +1,6 @@
 ---
 title: "cablogrep"
-author: "D_Gerber"
+author: "Dániel Gerber"
 ---
 
 ## Cablogrep
