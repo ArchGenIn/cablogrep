@@ -1,8 +1,6 @@
 ---
-title: "Cablogrep.MD"
+title: "cablogrep"
 author: "D_Gerber"
-date: "`r Sys.Date()`"
-output: html_document
 ---
 
 ## Cablogrep
