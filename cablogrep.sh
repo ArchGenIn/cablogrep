@@ -8,7 +8,7 @@ help()
 	echo "Available at Github under https://github.com/ArchGenIn/cablogrep"
 	echo ""
 	echo "Citation:"
-	echo "Dicso et al. (2023) A genetic study on horsekeeping during the Bronze Age Carpathian Basin"
+	echo "Dicso et al. (2023) Genomic refugium of pre-domestication lineages in the Bronze Age Carpathian Basin"
 	echo ""
 	echo "Options:"
 	echo "	-p	path/to/fasta_files (must have .fasta extension)"
