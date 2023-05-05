@@ -33,4 +33,4 @@ Due to the ambiguity of extant classifications (high number of hotspots, low sam
 
 ### Cite
 
-Dicső Z., et al. (2023) A genetic study on horsekeeping during the Bronze Age Carpathian Basin
+Dicső Z., et al. (2023) Genomic refugium of pre-domestication lineages in the Bronze Age Carpathian Basin
